@@ -127,16 +127,16 @@ amcivwar.9.a:0 "이건 아니야…"
 ### Set Up Events - Olson ###
 
 amcivwar.11.t:0 "휴이 롱이 미주 연합을 선포하다"
-amcivwar.11.d.nothing_is_done:0 "The violence in St. Louis was just the spark that was needed for Huey Long to declare on the radio that President Olson was a traitor and a conman, intent on selling out the American people to the bankers and the syndicalists, and that he and Reed must be fought to preserve the American way of life."
-amcivwar.11.d.revolt_against_compromise:0 "The compromise attempt has failed and with its failure, America has been broken. Huey Long has declared on the radio that the corrupt President Olson and the tyrannical Reed both must be stopped for the good of America, and has called for all Americans to rise up against them. "
-amcivwar.11.d.assassination_long:0 "The assassination attempt against Huey Long has been foiled, and worse, the involvement of the Federal Government has been made public. This is all the justification the AFP needed. Long has denounced President Olson and Jack Reed as traitors and tyrants, and has rallied his supporters to defend their way of life against their Tyranny"
+amcivwar.11.d.nothing_is_done:0 "세인트 루이스에서의 폭력사태는 휴이 롱이 라디오에서 올슨 대통령이 자본가와 신디칼리스트들에게 미국인들을 팔려고 했던 배신자이자 사기꾼이였으며 그와 리드가 미국인들의 삶을 지키기 위해 싸울것이라고 선포하기 위한 계기가 되었습니다."
+amcivwar.11.d.revolt_against_compromise:0 "타협을 위한 시도는 실패했고 그와 함께 미국또한 무너졌습니다. 휴이 롱은 라디오에서 부패한 올슨 대통령과 폭군 리드 모두를 미국의 이익을 위해 멈춰야 한다고 선언하고 모든 미국인들이 그들에 대항해 일어설 것을 요구했습니다."
+amcivwar.11.d.assassination_long:0 "휴이 롱에 대한 암살 시도는 좌절되었고 불행하게도 연방 정부의 개입이 있었다는것이 공개되었습니다. 이것은 AFP가 필요했던 명분이 되었습니다. 롱은 올슨 대통령과 잭 리드를 반역자이자 폭군이라고 비난했으며, 그들의 삶을 지키기 위해 독재와 싸우자고 지지자들을 소집했습니다." 
 amcivwar.11.a:0 "공화국을 지켜내자"
 amcivwar.11.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.12.t:0 "잭 리드가 2차 미국 혁명을 선포하다"
-amcivwar.12.d.nothing_is_done:0 "The violence in St. Louis was just the spark that was needed for Jack Reed to declare on the radio that President Olson was a puppet for the bourgeoise and a dishonest conman, intent on selling out the American worker to the highest bidder, and that it was time for the worker to make a stand. To this end, Reed has called for the second American Revolution."
-amcivwar.12.d.revolt_against_compromise:0 "The compromise attempt has failed and with its failure, America has been broken. Jack Reed has announced the creation of the Combined Syndicates of America with him as president, and has vowed to free the rest of America from their capitalist overlords. "
-amcivwar.12.d.full_demands:0 "With chaos engulfing the country following the failed assassination of Huey Long, Reed has seized the moment, and has denounced the Federal Government as puppets of their capitalist masters. Secretly worried that an attempt on his own life would follow the attempt on Long's Reed has announced the creation of the Combined Syndicates of America with him as president, and has vowed to free the rest of America from their capitalist overlords. "
+amcivwar.12.d.nothing_is_done:0 "세인트 루이스에서의 폭력사태는 잭 리드가 라디오에서 올슨 대통령이 미국인들을 가장 높은 입찰자에게 팔려고 했는 부르주아의 꼭두각시며 부정직한 사기꾼이였으며 노동자들이 저항해야할 시간이라고 선포하기 위한 계기가 되었습니다. 이를 위해 리드는 2차 미국 혁명을 촉구했습니다."
+amcivwar.12.d.revolt_against_compromise:0 "타협을 위한 시도는 실패했고 그와 함께 미국또한 무너졌습니다. 잭 리드는 그를 대통령으로 하는 노동 연맹의 탄생을 선언했고 나머지 미국인들을 자본주의 지주들로 부터 해방시키겠다고 맹세했습니다. "
+amcivwar.12.d.full_demands:0 "휴이 롱의 암살 미수 사건 이후 나라를 뒤덮고 있는 혼란과 함께, 리드는 기회를 포착했고 연방 정부를 자본주의자들의 꼭두각시라고 비난했다. 롱과 같은 사건이 자신에게도 뒤따를 것이라 속으로 걱정하면서 리드는 그를 대통령으로 하는 노동 연맹의 탄생을 선언하였고 나머지 미국인들을 자본주의 지주들로 부터 해방시키겠다고 맹세했습니다."
 amcivwar.12.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.12.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
